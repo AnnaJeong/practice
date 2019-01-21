@@ -17,6 +17,7 @@ Github
 2. Pull : 다른사람이 Repo update했을때, update된거 다운로드
 
     - git pull -u origin (hyeonwoo.yoo)
+    - git pull -u origin
 
 3. Add, Commit, Push
 
